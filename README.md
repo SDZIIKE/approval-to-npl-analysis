@@ -1,7 +1,7 @@
 ## 📊 Approval to Non-Performing Loan (NPL) Trend Analysis
 
 ## 📌 Project Overview
-This project analyzes the **time taken for approved loans to transition into Non-Performing Loan (NPL) status**, with emphasis on **early default behavior, employer (RIM Class) risk exposure, and portfolio-level deterioration trends**.
+This project analyzes the **time taken for approved loans to transition into Non-Performing Loan (NPL) status**, with emphasis on **early default behavior, employer (Class) risk exposure, and portfolio-level deterioration trends**.
 
 The analysis supports **credit risk management, portfolio monitoring, and strategic decision-making** by moving beyond traditional NPL ratios to focus on **time-to-default dynamics**.
 
@@ -34,9 +34,6 @@ The dataset consists exclusively of **non-performing loan accounts**, including 
 A loan is classified as **Non-Performing at 90 days in arrears**.
 
 
-**Result:**  
-**5%**
-
 ---
 
 ## 📊 Analytical Views
@@ -49,7 +46,7 @@ Recent years show a **declining time-to-NPL**, indicating faster deterioration.
 
 ---
 
-### Average Days to NPL by RIM Class
+### Average Days to NPL by Employer Class
 - Identifies employer groups associated with faster defaults
 - Supports risk-based pricing and exposure management
 
@@ -65,7 +62,7 @@ Several Employer Classes default **significantly faster than the portfolio avera
 
 ## 📈 Key Insights
 - Early default levels remain relatively low (5 accounts), suggesting stable underwriting quality.
-- Overall defaults are occurring **faster**, indicating growing borrower stress.
+- Overall defaults are starting to occur **faster**, indicating growing borrower stress, between the period 2022 & 2025.
 - Employer-based segmentation reveals **structural risk concentrations**.
 - Time-based default analysis provides stronger risk signals than static NPL ratios.
 
