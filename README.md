@@ -78,7 +78,7 @@ Several Employer Classes default **significantly faster than the portfolio avera
 This project demonstrates how **approval-to-default analytics** provide deeper and more actionable insight than traditional NPL metrics. By focusing on **time-to-NPL**, financial institutions can strengthen early warning systems, improve credit policy, and better manage portfolio risk.
 
 See dashboard below:
-
+![Dashboard Preview](powerbi_Approval_to_NPL_Analysis.png)
 
 
 
