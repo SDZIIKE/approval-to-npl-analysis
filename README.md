@@ -26,21 +26,6 @@ This project addresses the following key questions:
 ## 🧾 Dataset Description
 The dataset consists exclusively of **non-performing loan accounts**, including both **active NPLs and non-accrual loans**.
 
-### Key Fields
-| Column | Description |
-|------|------------|
-| LN Account | Loan account identifier |
-| DP Account | Linked deposit account |
-| Contract Date | Loan approval / disbursement date |
-| Disbursed AMT | Original loan amount |
-| Balance | Outstanding balance |
-| Payoff | Expected payoff amount |
-| Rate | Interest rate |
-| Status | Active or Non-accrual |
-| RIM Class | Employer / customer classification |
-| CRNCY | Currency |
-| Days in Arrears | Number of overdue days |
-
 ---
 
 ## 🛠 Data Preparation & Feature Engineering
