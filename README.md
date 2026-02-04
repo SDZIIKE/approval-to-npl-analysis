@@ -64,6 +64,8 @@ Several Employer Classes default **significantly faster than the portfolio avera
 - Early default levels remain relatively low (5 accounts), suggesting stable underwriting quality.
 - Overall defaults are starting to occur **faster**, indicating growing borrower stress, between the period 2022 & 2025.
 - Employer-based segmentation reveals **structural risk concentrations**.
+- Average number of days from approval to NPL status is 498.
+- Median number of days from approval to NPL status is 449.
 - Time-based default analysis provides stronger risk signals than static NPL ratios.
 
 ---
